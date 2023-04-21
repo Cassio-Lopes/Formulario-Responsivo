@@ -11,9 +11,9 @@ Este é um formulário responsivo que utiliza HTML, CSS e JavaScript para fornec
 <li>Design limpo e moderno.</li>
 
 ### Tecnologias utilizadas
-<li>HTML5 para a estrutura do formulário.</li>
-<li>CSS3 para a estilização do formulário.</li>
-<li>JavaScript para a validação de campos e interatividade.</li>
+<li><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML5 para a estrutura do formulário.</li>
+<li><img align="center" alt="css" height="40" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=150&color=currentColor">CSS3 para a estilização do formulário.</li>
+<li><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript para a validação de campos e interatividade.</li>
 
 
 ### Como executar o projeto
