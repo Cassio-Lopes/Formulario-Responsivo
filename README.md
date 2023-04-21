@@ -17,7 +17,7 @@ Este é um formulário responsivo que utiliza HTML, CSS e JavaScript para fornec
 
 
 ### Como executar o projeto
-<li>Clone o repositório em sua máquina local usando o comando git clone https://github.com/seunome/formulario-responsivo.</li>
+<li>Clone o repositório em sua máquina local usando o comando git clone https://github.com/Cassio-Lopes/Formulario-Responsivo.git</li>
 <li>Navegue até o diretório do projeto usando o comando cd formulario-responsivo.</li>
 <li>Abra o arquivo index.html em seu navegador de escolha.</li>
 
